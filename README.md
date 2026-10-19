@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá! Eu sou o Renan Gomes
 
-<!--
-**renanapgomes/renanapgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor Java | Backend | APIs REST | Integração e Modernização de Sistemas**
 
-Here are some ideas to get you started:
+Sou desenvolvedor de software com foco em Java e backend, atuando no desenvolvimento, manutenção e evolução de aplicações. Tenho interesse em arquitetura de software, integração entre sistemas, modernização de sistemas legados e construção de soluções escaláveis e de fácil manutenção.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Principais competências
+
+- Desenvolvimento backend com Java e Spring Boot
+- Construção e integração de APIs REST
+- Manutenção e modernização de sistemas legados
+- Integração entre aplicações e serviços
+- Persistência de dados e bancos relacionais
+- Testes automatizados e qualidade de código
+- Boas práticas de desenvolvimento e arquitetura de software
+
+### Tecnologias
+
+Java • Spring Boot • SQL • APIs REST • Git • Maven • JUnit • Mockito • Docker
+
+### Objetivo
+
+Compartilhar projetos, soluções técnicas e estudos relacionados ao desenvolvimento backend, demonstrando boas práticas, organização de código e evolução contínua em engenharia de software.
+
+### Contato
+
+- GitHub: https://github.com/renanapgomes
+- LinkedIn: [adicione seu link]
